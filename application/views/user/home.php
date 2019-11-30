@@ -178,7 +178,7 @@
                             </div>
                         
                             <div class="card-reveal">
-                                <h3 class="font-bold grey-text text-darken-4"><i class="material-icons right">close</i>Rumah A</h3>
+                                <h3 class="card-title grey-text text-darken-4"><i class="material-icons right">close</i>Rumah A</h3>
                                 <p>Deskripsi Rumah</p>
                                 <ul>
                                     <li>Ukuran : 4 x 8 M</li>
@@ -202,7 +202,7 @@
                             </div>
                         
                             <div class="card-reveal">
-                                <h3 class="font-bold grey-text text-darken-4"><i class="material-icons right">close</i>Rumah B</h3>
+                                <h3 class="card-title grey-text text-darken-4"><i class="material-icons right">close</i>Rumah B</h3>
                                 <p>Deskripsi Rumah</p>
                                 <ul>
                                     <li>Ukuran : 4 x 8 M</li>
@@ -226,7 +226,7 @@
                             </div>
                         
                             <div class="card-reveal">
-                                <h3 class="font-bold grey-text text-darken-4"><i class="material-icons right">close</i>Rumah C</h3>
+                                <h3 class="card-title grey-text text-darken-4"><i class="material-icons right">close</i>Rumah C</h3>
                                 <p>Deskripsi Rumah</p>
                                 <ul>
                                     <li>Ukuran : 4 x 8 M</li>
@@ -250,7 +250,7 @@
                             </div>
                         
                             <div class="card-reveal">
-                                <h3 class="font-bold grey-text text-darken-4"><i class="material-icons right">close</i>Rumah D</h3>
+                                <h3 class="card-title grey-text text-darken-4"><i class="material-icons right">close</i>Rumah D</h3>
                                 <p>Deskripsi Rumah</p>
                                 <ul>
                                     <li>Ukuran : 4 x 8 M</li>

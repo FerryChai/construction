@@ -23,8 +23,8 @@
           </div>
 
           <div class="row">
-            <div class="col lg12 m12 s12">
-              <div class="col lg4 m4 s4 z-depth-12">
+
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu1.jpg" style="min-height: 200px;">
@@ -41,7 +41,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu2.jpg" style="min-height: 200px;">
@@ -57,7 +57,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu3.jpg" style="min-height: 200px;">
@@ -73,10 +73,8 @@
                     </div>
                   </div>
               </div>
-            </div>
 
-            <div class="col lg12 m12 s12">
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu4.jpg" style="min-height: 200px;">
@@ -92,7 +90,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu5.jpg" style="min-height: 200px;">
@@ -108,7 +106,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu6.jpg" style="min-height: 200px;">                    
@@ -123,10 +121,8 @@
                     </div>
                   </div>
               </div>
-            </div>
 
-            <div class="col lg12 m12 s12">
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu7.jpg" style="min-height: 200px;">
@@ -142,7 +138,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu8.jpg" style="min-height: 200px;">
@@ -158,7 +154,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu9.jpg" style="min-height: 200px;">
@@ -173,10 +169,9 @@
                     </div>
                   </div>
               </div>
-            </div>
+            
 
-            <div class="col lg12 m12 s12">
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/sepatu10.jpg" style="min-height: 200px;">
@@ -191,7 +186,6 @@
                     </div>
                   </div>
               </div>
-            </div>
             
 
           </div>
@@ -201,8 +195,7 @@
             </div>
 
             <div class="row">
-              <div class="col lg12 m12 s12">
-                <div class="col lg4 m4 s4 z-depth-12">
+                <div class="col l4 m6 s6 z-depth-12">
                     <div class="card hoverable grey lighten-5">
                       <div class="card-image">
                         <img src="../../img/produk/rebana1.jpg" style="min-height: 200px;">
@@ -219,7 +212,7 @@
                     </div>
                 </div>
 
-                <div class="col lg4 m4 s4 z-depth-12">
+                <div class="col l4 m6 s6 z-depth-12">
                     <div class="card hoverable grey lighten-5">
                       <div class="card-image">
                         <img src="../../img/produk/rebana2.jpg" style="min-height: 200px;">
@@ -234,7 +227,6 @@
                       </div>
                     </div>
                 </div>
-              </div>
             </div>
 
 
@@ -260,8 +252,8 @@
 
           <div class="row">
             
-            <div class="col lg12 m12 s12">
-              <div class="col lg4 m4 s4 z-depth-12">
+        
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/Jam17.jpg" style="min-height: 200px;">
@@ -278,7 +270,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/Jam16.jpg" style="min-height: 200px;">
@@ -294,7 +286,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/Jam3.jpg" style="min-height: 200px;">
@@ -310,10 +302,8 @@
                     </div>
                   </div>
               </div>
-            </div>
 
-            <div class="col lg12 m12 s12">
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/Jam4.jpg" style="min-height: 200px;">
@@ -329,7 +319,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/Jam5.jpg" style="min-height: 200px;">
@@ -345,7 +335,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/Jam18.jpg" style="min-height: 200px;">                    
@@ -360,10 +350,8 @@
                     </div>
                   </div>
               </div>
-            </div>
 
-            <div class="col lg12 m12 s12">
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/Jam13.jpg" style="min-height: 200px;">
@@ -379,7 +367,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/Jam14.jpg" style="min-height: 200px;">
@@ -395,7 +383,7 @@
                   </div>
               </div>
 
-              <div class="col lg4 m4 s4 z-depth-12">
+              <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image">
                       <img src="../../img/produk/Jam15.jpg" style="min-height: 200px;">
@@ -410,11 +398,7 @@
                     </div>
                   </div>
               </div>
-            </div>
-
-
             
-
           </div>
 
           <div class="center" style="margin-bottom: 3%; padding-top: 3%;">

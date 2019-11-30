@@ -10,23 +10,23 @@
                         </li>
 
                         <li data-aos="fade-up-left" data-aos-delay="1000">
-                            <a href="<?= base_url(); ?>user/produk/1" class="font-bold waves-effect navlink waves-orange">PRODUK</a>
+                            <a href="<?= base_url(); ?>User/produk/1" class="font-bold waves-effect navlink waves-orange">PRODUK</a>
                         </li>
 
                         <li data-aos="fade-up-left" data-aos-delay="900">
-                            <a href="<?= base_url(); ?>user/portfolio/1" class="font-bold waves-effect navlink waves-orange">PORTOFOLIO</a>
+                            <a href="<?= base_url(); ?>User/portfolio/1" class="font-bold waves-effect navlink waves-orange">PORTOFOLIO</a>
                         </li>
 
                         <li data-aos="fade-up-left" data-aos-delay="800">
-                            <a href="<?= base_url(); ?>user/gallery" class="font-bold waves-effect navlink waves-orange">GALLERY</a>
+                            <a href="<?= base_url(); ?>User/gallery" class="font-bold waves-effect navlink waves-orange">GALLERY</a>
                         </li>
 
                         <li data-aos="fade-up-left" data-aos-delay="700">
-                            <a href="<?= base_url(); ?>user/kontak" class="font-bold waves-effect navlink waves-orange">KONTAK</a>
+                            <a href="<?= base_url(); ?>User/kontak" class="font-bold waves-effect navlink waves-orange">KONTAK</a>
                         </li>
 
                         <li data-aos="fade-up-left" data-aos-delay="600">
-                            <a href="<?= base_url(); ?>user/about" class="font-bold waves-effect navlink waves-orange">TENTANG KAMI</a>
+                            <a href="<?= base_url(); ?>User/about" class="font-bold waves-effect navlink waves-orange">TENTANG KAMI</a>
                         </li>
                     </ul>
 
@@ -42,23 +42,23 @@
                         </li>
 
                         <li data-aos="fade-up-left" data-aos-delay="1000">
-                            <a href="<?= base_url(); ?>user/produk/1" class="font-bold waves-effect navlink waves-orange"><i class="material-icons">vertical_split</i>PRODUK</a>
+                            <a href="<?= base_url(); ?>User/produk/1" class="font-bold waves-effect navlink waves-orange"><i class="material-icons">vertical_split</i>PRODUK</a>
                         </li>
 
                         <li>
-                            <a href="<?= base_url(); ?>user/portfolio/1" class="font-bold waves-effect navlink waves-orange" style="letter-spacing:2px;font-size: 15px;"><i class="material-icons">view_carousel</i>PORTOFOLIO</a>
+                            <a href="<?= base_url(); ?>User/portfolio/1" class="font-bold waves-effect navlink waves-orange" style="letter-spacing:2px;font-size: 15px;"><i class="material-icons">view_carousel</i>PORTOFOLIO</a>
                         </li>
 
                         <li>
-                            <a href="<?= base_url(); ?>user/gallery" class="font-bold waves-effect navlink waves-orange" style="letter-spacing:2px;font-size: 15px;"><i class="material-icons">insert_photo</i>GALLERY</a>
+                            <a href="<?= base_url(); ?>User/gallery" class="font-bold waves-effect navlink waves-orange" style="letter-spacing:2px;font-size: 15px;"><i class="material-icons">insert_photo</i>GALLERY</a>
                         </li>
 
                         <li>
-                            <a href="<?= base_url(); ?>user/kontak" class="font-bold waves-effect navlink waves-orange" style="letter-spacing:2px;font-size: 15px;"><i class="material-icons">email</i>KONTAK</a>
+                            <a href="<?= base_url(); ?>User/kontak" class="font-bold waves-effect navlink waves-orange" style="letter-spacing:2px;font-size: 15px;"><i class="material-icons">email</i>KONTAK</a>
                         </li>
 
                         <li data-aos="fade-up-left" data-aos-delay="600">
-                            <a href="<?= base_url(); ?>user/about" class="font-bold waves-effect navlink waves-orange"><i class="material-icons left">account_circle</i>TENTANG KAMI</a>
+                            <a href="<?= base_url(); ?>User/about" class="font-bold waves-effect navlink waves-orange"><i class="material-icons left">account_circle</i>TENTANG KAMI</a>
                         </li>
                     </ul>
                     <a href="#" data-activates="navbar-z" class="right button-collapse init-navbar-z"><i
