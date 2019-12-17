@@ -14,12 +14,21 @@ $(document).ready(function(){
             // columnWidth: 200
         });
 
+        $('.fitur-mh').matchHeight({
+            byRow: true,
+            property: 'height',
+            target: null,
+            remove: false
+        });
+
+        // $('select').material_select();
+
         // $('#toggle').click(function () {
         //     $(this).toggleClass('active');
         //     $('#overlay').toggleClass('open');
         //     $('body').css({"overflow":"hidden"});
         // });
-        AOS.init();
+        
         $('.counter').counterUp({
             delay: 10,
             time: 2000
@@ -108,8 +117,15 @@ $(document).ready(function(){
 		    }
         });
 
-	// $(".dropdown-button").dropdown();
- //    $('.button-collapse').sideNav();
- //    $('.collapsible').collapsible();
- //    $('.parallax').parallax();
+        var owlrebana = $("#rebana").owlCarousel({
+            items:1,
+            loop:true,
+            autoplay:true,
+            autoHeight: true,
+            autoplayHoverPause:false,
+            responsiveClass: true,            
+        });
+
+        AOS.init();
+        
 });

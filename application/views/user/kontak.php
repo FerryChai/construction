@@ -24,7 +24,7 @@
                             </span>
 
                             <div class="row" style="margin-top: 30px; margin-bottom: 0;">
-                                <form class="col s12 row" action="#" method="POST">
+                                <form class="col s12 row" action="<?= base_url(); ?>user/kirim" method="POST">
 
                                     <div class="row col s6">
                                         <div class="input-field col s12">
@@ -53,12 +53,12 @@
                                             <label for="keterangan">Keterangan</label>
                                         </div>
                                     </div>
-                                </form>
                             </div>
                         </div>
 
                         <div class="card-action" style="height: 75px;">
                             <button type="submit"  class="btn waves-effect waves-light black-text light-blue darken-1 right"><i class="material-icons right" style="border-radius: 30px; border: none;">send</i>Kirim</button>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -73,10 +73,8 @@
                             Ikuti Media Sosial kami!
                         </p>
                         <div class="font-bold">
-                            <a class="btn-floating light-blue darken-1" style="margin-right: 10px;"><i class="fab fa-facebook"></i><a>
-                            <a class="btn-floating light-blue darken-1" style="margin-right: 10px;"><i class="fab fa-instagram"></i></a>
-                            <a class="btn-floating light-blue darken-1" style="margin-right: 10px;"><i class="fab fa-twitter"></i></a>
-                            <a class="btn-floating light-blue darken-1" style="margin-right: 10px;"><i class="fab fa-youtube"></i></a>
+                            <a href="https://web.facebook.com/Indra-Cah-Kudus-1949042315398650/?__tn__=%2Cd%2CP-R&eid=ARBrwg174c0UBP_cp0bdodA_O43RuoJiSm8EUSgFEjeSi8BmKixogqqej_aRnrpbKxS4shEZjjd89Tce" class="btn-floating light-blue darken-1" style="margin-right: 10px;"><i class="fab fa-facebook"></i><a>
+                            <a href="https://www.instagram.com/cahkudusindra_kontraktor/" class="btn-floating light-blue darken-1" style="margin-right: 10px;"><i class="fab fa-instagram"></i></a>
                         </div>
                         
                     </div>

@@ -69,6 +69,8 @@
     <script type="text/javascript" src="../../assets/js/masonry.pkgd.min.js"></script>
     <script type="text/javascript" src="../../assets/js/jquery.fancybox.min.js"></script>
     <script type="text/javascript" src="../../assets/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="../../assets/js/jquery.matchHeight.js"></script>
+    <script type="text/javascript" src="../../assets/js/jquery.matchHeight-min.js"></script>
     <script type="text/javascript" src="../../assets/js/init.js"></script>
     <script type="text/javascript" src="../../assets/js/script.js"></script>
 </body>

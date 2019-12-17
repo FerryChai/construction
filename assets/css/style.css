@@ -301,7 +301,13 @@ nav ul .navlink:hover .material-icons {
 }
 
 .brand-logo {
-	letter-spacing: 2px;
+	height: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+	.judul {
+		font-size: 1rem;
+	}
 }
 
 .black-overlay {

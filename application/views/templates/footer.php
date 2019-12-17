@@ -54,7 +54,7 @@
                 © 2019 <span class="font-bold white-text" style="letter-spacing:0.8px;">Kudus Karya Inti Megah</span> .
                 <a class="white-text right hide-on-small-only" target="_blank"
                     style="letter-spacing:0.8px;">Designed
-                    By <span class="font-bold white-text">Ferry</span></a>
+                    By <span class="font-bold white-text">Ferry Chai</span></a>
             </div>
         </div>
     </div>
@@ -69,6 +69,8 @@
     <script type="text/javascript" src="assets/js/masonry.pkgd.min.js"></script>
     <script type="text/javascript" src="assets/js/jquery.fancybox.min.js"></script>
     <script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.matchHeight.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
     <script type="text/javascript" src="assets/js/init.js"></script>
     <script type="text/javascript" src="assets/js/script.js"></script>
 </body>
