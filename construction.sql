@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Dec 17, 2019 at 04:39 PM
+-- Generation Time: Dec 19, 2019 at 11:58 AM
 -- Server version: 10.1.38-MariaDB
 -- PHP Version: 7.3.3
 
@@ -166,7 +166,7 @@ CREATE TABLE `kontak` (
 --
 
 INSERT INTO `kontak` (`Id`, `Nama`, `Email`, `Subjek`, `Keterangan`, `Tanggal`) VALUES
-(1, 'Ferry', 'ferryyuno@gmail.com', 'Pembangunan rumah A', 'asdgshdj gsad asd cgayc acusa c yasyus sgduy dud uyas dgyuacgcyas cu c sagcugcyuas cua cyu gcyas gcyas cyas cias casco ascg asyc yiascac asu c cyua ca cyascyuag cuysa gca cas ciascgiusacuas cxbx ysx ysgbshwicasichsakcsa c yascysa cysgcac oashojdpasd c hsaohcacasashdsaf', '2019-12-18');
+(1, 'Ferry', 'ferryyuno@gmail.com', 'Pembangunan rumah A', 'Saya ingin meminta membangun rumah, di........ ini merupakan contoh untuk isi surat di email', '2019-12-18');
 
 -- --------------------------------------------------------
 
@@ -215,13 +215,13 @@ CREATE TABLE `portfolio` (
 --
 
 INSERT INTO `portfolio` (`Id`, `Jenis_Rumah`, `Alamat`, `Ukuran`, `Kamar`, `Kamar_Mandi`, `Keterangan`, `Urutan`, `Tampil`, `Gambar`) VALUES
-(1, 'Rumah A', 'cascjsjcas casocjsos', '4 x 9', 2, 3, 'Kepuasan anda adalah prioritas kami.', 2, 'Y', '1.jpg'),
-(2, 'Rumah B', 'Harapan Indah, balalallaa baalallalala skskskks', '4 x 9', 2, 2, '2121212', 3, 'Y', '2.jpg'),
-(3, 'Rumah C', 'Harapan Indah, balalallaa baalallalala skskskks', '4 x 9', 2, 2, 'sasjadkajlkdjskladjklas dsj dsa jdoisa jd sdoisadoi jsa da dsajdsadsja', 1, 'Y', '3.jpg'),
-(4, 'Rumah D', 'Harapan Indah, balalallaa baalallalala skskskks', '4 x 9', 2, 2, 'sasjadkajlkdjskladjklas dsj dsa jdoisa jd sdoisadoi jsa da dsajdsadsja', 4, 'Y', '4.jpg'),
-(5, 'Rumah E', 'Harapan Indah, balalallaa baalallalala skskskks', '4 x 9', 2, 2, 'sasjadkajlkdjskladjklas dsj dsa jdoisa jd sdoisadoi jsa da dsajdsadsja', NULL, 'N', '5.jpg'),
-(7, 'Rumah F', 'Hajasjcasjc cshaiucha i cuhacui uisach uahcuisa', '4 x 3', 2, 3, 'caskcpcpc  cash cua ch cuia ci ic', NULL, 'N', '6.jpg'),
-(8, 'Rumah G', 'dsahdsh hcuxc  us ha sahdd iiaoppp ajajjsksksk', '4 x 9', 5, 7, 'sasjadkajlkdjskladjklas dsj dsa jdoisa jd sdoisadoi jsa da dsajdsadsja', NULL, 'N', '7.jpg');
+(1, 'Rumah A', 'Alamat A', '4 x 9', 2, 3, 'Rumah ini berlantai 2 dan lokasinya sangat strategis', 2, 'Y', '1.jpg'),
+(2, 'Rumah B', 'Alamat B', '4 x 9', 2, 2, 'Rumah ini berlantai 2 dan lokasinya sangat strategis', 3, 'Y', '2.jpg'),
+(3, 'Rumah C', 'Alamat C', '4 x 9', 2, 2, 'Rumah ini berlantai 2 dan lokasinya sangat strategis', 1, 'Y', '3.jpg'),
+(4, 'Rumah D', 'Alamat D', '4 x 9', 2, 2, 'Rumah ini berlantai 2 dan lokasinya sangat strategis', 4, 'Y', '4.jpg'),
+(5, 'Rumah E', 'Alamat E', '4 x 9', 2, 2, 'Rumah ini berlantai 2 dan lokasinya sangat strategis', NULL, 'N', '5.jpg'),
+(7, 'Rumah F', 'Alamat F', '4 x 3', 2, 3, 'Rumah ini berlantai 2 dan lokasinya sangat strategis', NULL, 'N', '6.jpg'),
+(8, 'Rumah G', 'Alamat G', '4 x 9', 5, 7, 'Rumah ini berlantai 2 dan lokasinya sangat strategis', NULL, 'N', '7.jpg');
 
 -- --------------------------------------------------------
 
@@ -298,9 +298,9 @@ CREATE TABLE `testimoni` (
 --
 
 INSERT INTO `testimoni` (`Id`, `Nama`, `Keterangan`, `Gambar`) VALUES
-(1, 'Daffa Prayoga Purwanto', 'ndaskna casichsi  cascshac hasi hcusa hcgcsayd gsaudysad', '1.jpg'),
-(2, 'Ferry', 'dasjdsjk hd sah cgcsaicgysai dhsadhsa icbcasiuchisach sa saudh ashdsia', '2.jpg'),
-(3, 'Mike Wazowski', 'ndaskna casichsi  cascshac hasi hcusa hcgcsayd gsaudysad', '3.jpg');
+(1, 'Daffa Prayoga Purwanto', 'Proses pembangunan yang di buat oleh Karya Inti Megah, sangat cepat dan memuaskan!', '1.jpg'),
+(2, 'Ferry', 'Pekerja yang profesional dan berpengalaman, membuat perusahaan ini terus maju.', '2.jpg'),
+(3, 'Jason Benardi', 'Harga terjangkau, kualitas juga sangat top!', '3.jpg');
 
 --
 -- Indexes for dumped tables

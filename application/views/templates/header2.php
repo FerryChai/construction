@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="Kudus Karya Inti Megah adalah Perusahaan jasa pembangunan terbaik dengan kualitas pembangunan yang mampu bersaing dengan skala global. Selain jasa pembangunan, kami juga menawarkan/menjual produk berupa Rebana, Sepatu dan Jam dengan harga yang sangat terjangkau.">
+    <meta name="keywords" content="Jasa bangun rumah murah, kontraktor murah, jual rebana murah, jual sepatu murah, jual jam murah, karya inti megah, jasa pembangunan jawa tengah"/>
 
     <title>Kudus Karya Inti Megah</title>
     <!--Import Google Icon Font-->

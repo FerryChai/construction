@@ -19,7 +19,7 @@
                     <div class="row portfolio-grid" style="margin-top:80px;">
                         
                         <?php foreach($portfolio as $port) : ?>
-                            <div class="col s6 portfolio-card" data-aos="zoom-out-up" data-aos-delay="400">
+                            <div class="col s6 portfolio-card">
                                 <div class="card z-depth-12 hoverable grey lighten-5" style="border-radius: 10px;">
                                     <div class="card-image waves-effect waves-block waves-light">
                                         <a data-fancybox="gallery" href="../img/portofolio/<?= $port['Gambar']; ?>" data-caption="<?= $port['Jenis_Rumah']; ?>">

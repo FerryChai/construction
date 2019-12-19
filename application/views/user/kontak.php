@@ -64,7 +64,7 @@
                 </div>
 
                 <div class="col l4" data-aos="fade-up-left" data-aos-delay="400">
-                    <img src="../img/siluet.png" style="width: 75vh; margin-top: 30%; margin-left: 10%;">
+                    <img class="hide-on-small-only"  src="../img/siluet.png" style="width: 75vh; margin-top: 30%; margin-left: 10%;">
                     <p class="font-bold" style="margin-left: 10%;">
                         Kudus Karya Inti Megah
                     </p>

@@ -129,8 +129,7 @@
                 <div class="col l4 m6 s6 z-depth-12">
                     <div class="card hoverable grey lighten-5">
                       <div class="card-image fitur-mh">
-                        <div style="min-height: 200px; max-height: 350px; overflow: hidden;">
-                          <img src="../../img/produk/<?= $reb['Gambar_1']; ?>" style="min-height: 200px; max-height: 350px;" class ="responsive-img">  
+                        <div class="card-photo" style="min-height: 300px; overflow: hidden; background-image: url(../../img/produk/<?= $reb['Gambar_1']; ?>); background-size: cover;">                          
                         </div>
                       </div>
 
@@ -261,8 +260,7 @@
               <div class="col l4 m6 s6 z-depth-12">
                   <div class="card hoverable grey lighten-5">
                     <div class="card-image fitur-mh">
-                      <div style="min-height: 200px; max-height: 350px; overflow: hidden;">
-                        <img src="../../img/produk/<?= $sep['Gambar']; ?>" class ="responsive-img">
+                      <div class="card-photo" style="min-height: 300px; overflow: hidden; background-image: url(../../img/produk/<?= $sep['Gambar']; ?>); background-size: cover;">
                       </div>
                       <?php if($sep['Recommended'] == "Y") { ?>
                         <a class="btn-floating halfway-fab waves-effect waves-light light-blue darken-1"><i class="material-icons">grade</i></a>
@@ -400,8 +398,7 @@
                   <div class="col l4 m6 s6 z-depth-12">
                       <div class="card hoverable grey lighten-5">
                         <div class="card-image fitur-mh" >
-                          <div style="min-height: 200px; max-height: 350px; overflow: hidden;">
-                            <img src="../../img/produk/<?= $jm['Gambar']; ?>" class ="responsive-img">
+                          <div class="card-photo" style="min-height: 300px; overflow: hidden; background-image: url(../../img/produk/<?= $jm['Gambar']; ?>); background-size: cover;">
                           </div>
                           <?php if($jm['Recommended'] == "Y") { ?>
                                 <a class="btn-floating halfway-fab waves-effect waves-light light-blue darken-1"><i class="material-icons">grade</i></a>

@@ -144,7 +144,7 @@
 	        $mail->addReplyTo($emailclient,$subjek);
 	        
 	        // Add a recipient
-	        $mail->addAddress('ferryyuno@gmail.com');
+	        $mail->addAddress('Herusubiat@gmail');
 	        
 	        // Add cc or bcc 
 	        // $mail->addCC('cc@example.com');
